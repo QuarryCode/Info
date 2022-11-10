@@ -1,1 +1,6 @@
-# Info
+# Quarrycode 
+QuarryCode is a professional bespoke software development company based in Oxford, England.
+
+We have over 20 years' experience of developing commercial websites, .NET and database-driven applications and are very happy making those things, but we'll take a look at anything interesting!
+
+We're flexible and love solving problems, so get in touch!
